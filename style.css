@@ -33,6 +33,14 @@ button {
   border-radius: 10px;
 }
 
+meo {
+  padding: 10px 20px 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+}
+
 #yes {
   background-color: #d31f55;
   color: #fff;
